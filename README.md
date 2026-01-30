@@ -1,49 +1,101 @@
-#  Hello, I'm Khandaker Siam Ahmed
+<h1 align="center">
+  <br>
+  Khandaker Siam Ahmed
+</h1>
 
-I am a **Mechanical Engineering student** at **Islamic University of Technology (IUT)** with a dedicated focus on the integration of mechanical design and intelligent systems. My expertise encompasses **Robotics**, **CAD Modeling**, and the programming essential for robotics applications.
+<p align="center">
+  <strong>Mechanical Engineering Undergraduate | Mechatronics & Robotics Researcher</strong><br>
+  Islamic University of Technology (IUT), Dhaka, Bangladesh
+</p>
 
----
-
-##  Core Competencies
-
-- **Robotics**: Designing, developing, and programming robotic systems.  
-- **CAD Modeling**: Proficient in 3D design, digital prototyping, and technical drafting.  
-- **Embedded Systems & Microcontrollers**: Experience in developing solutions for embedded applications.  
-- **Programming**:  
-  - *C*: Suitable for embedded and low-level control  
-  - *Python*: Utilized for higher-level logic, data processing, and rapid prototyping  
-- **SolidWorks**: Certified SolidWorks Associate  
-- **Blender**: Basic proficiency in 3D animation  
-
----
-
-## Key Projects & Contributions
-
-- **Line Following Robot (LFR)**:  
-  Ongoing involvement in the development and optimization of LFR systems.  
-
-- **Smart Waste Bin Project**:  
-  Currently designing and implementing an automated system for waste type sorting and disposal.  
-
-- **Microcontroller-Based Projects**:  
-  Developed various projects leveraging microcontroller technology for automation and control.  
-
-- **CAD Projects**:  
-  Extensive experience across diverse CAD design challenges.  
-
-- **Project Altair (IUT Mars Rover Team)**:  
-  Junior member of the **Mechanical and Manufacturing Subteam**, contributing to rover development.  
+<p align="center">
+  <a href="mailto:siam.ahmed.mahin@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/khandakersiamahmed/">LinkedIn</a> •
+  <a href="https://github.com/SiamAhmedMahin">GitHub</a> •
+  <a href="https://grabcad.com/khandaker.siam.ahmed-2">GrabCAD</a> •
+  <a href="https://wa.me/+8801303048942">WhatsApp</a>
+</p>
 
 ---
 
-## Notable Achievements & Experience
+## Abstract
 
--  **2nd Place**: Awarded second place in the **Underwater Vehicle Design Competition** at **IIT Guwahati** (as a team member).  
--  **Project Altair (IUT Mars Rover Team)**:  
-  Active junior member within the **Mechanical and Manufacturing Subteam**.
+I am a fifth-semester undergraduate student in Mechanical Engineering with a strong focus on bridging mechanical systems with intelligent control. My research interests lie in **Robotics**, **Control Theory**, and **Fluid Mechanics**. I have extensive experience in CAD modeling, Finite Element Analysis (FEA), and embedded systems, actively contributing to competitive robotics projects including Mars rovers and autonomous underwater vehicles.
 
 ---
 
-##  Connect With Me
+## 1. Education
 
-I invite you to explore my repositories to review my work. I am always interested in **collaborative opportunities** in **robotics**, **mechanical design**, and **embedded systems**.
+**B.Sc. in Mechanical Engineering** | *Islamic University of Technology (IUT)*
+* **Duration:** Jan 2023 – Jan 2027 (Expected)
+* **Academic Standing:** $CGPA = 3.53 / 4.00$
+* **Scholarship:** Recipient of the OIC Partial Scholarship (Merit-based grant valued at USD 14,000).
+
+**Higher Secondary Certificate (HSC)** | *Government Science College*
+* **Completion:** 2022
+* **Result:** $GPA = 5.00 / 5.00$
+
+---
+
+## 2. Professional Experience
+
+### 2.1. Project Altair (IUT Mars Rover Team)
+**Role:** Junior Executive, Mechanical & Manufacturing Subteam \
+**Duration:** Nov 2024 – Present
+
+* Spearheaded the mechanical design of the rover's chassis and suspension systems, optimizing the strength-to-weight ratio.
+* Validated structural integrity via **FEA static stress analysis** using SolidWorks Simulation.
+* Contributed to the team securing **18th position globally** at the *University Rover Challenge (URC)*.
+
+### 2.2. Project Aqua (IUT Underwater Rover Team)
+**Role:** Junior Executive, Mechanical Team \
+**Duration:** Nov 2024 – Present
+
+* Executed detailed CAD modeling of underwater vehicle prototypes.
+* Generated photorealistic renders and mechanism animations using Blender for technical documentation.
+* Key contributor to achieving **2nd Place** at the *IIT Guwahati Underwater Vehicle Design Challenge*.
+
+### 2.3. Short Circuit
+**Role:** Co-Founder \
+**Duration:** May 2025 – Present
+
+* Established an online electronics platform serving $n > 100$ engineering students.
+* Managed supply chain logistics, achieving a $15\%$ profit margin and generating over BDT 200,000 in revenue in Q1.
+
+---
+
+## 3. Selected Technical Projects
+
+### 3.1. Automatic Garbage Sorter System
+* **Domain:** Mechatronics & Machine Learning
+* **Methodology:** Designed a custom mechanical actuation system using herringbone gears for torque transmission. Integrated an **ESP32** microcontroller with a **YOLO-based** computer vision model for real-time waste classification.
+
+### 3.2. Advanced Line Following Robot
+* **Domain:** Embedded Systems & Control
+* **Methodology:** Developed an autonomous robot featuring an OLED interface and PID control algorithms. Implemented ultrasonic sensors for high-speed navigation and dynamic obstacle avoidance.
+
+---
+
+## 4. Technical Skills
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Design & Simulation** | SolidWorks (CSWA), SolidWorks Simulation, Blender |
+| **Electronics** | Arduino, ESP32, Proteus, PCB Design |
+| **Programming** | Python, C, Embedded C |
+| **Analysis** | Finite Element Analysis (FEA), Structural Mechanics |
+
+---
+
+## 5. Achievements & Certifications
+
+* **Champion:** Cezeri Lab Annual Project Competition 2025.
+* **2nd Place:** Underwater Vehicle Design Competition, IIT Guwahati, India.
+* **Certification:** Certified SolidWorks Associate (CSWA) — *Dassault Systèmes*.
+* **Membership:** Member, International Association of Engineers (IAENG).
+
+---
+
+<p align="center">
+  <em>Last updated: January 2026</em>
+</p>
