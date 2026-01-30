@@ -2,11 +2,7 @@
   <br>
   Khandaker Siam Ahmed
 </h1>
-
-<p align="center">
-  <strong>Mechanical Engineering Undergraduate | Mechatronics & Robotics Researcher</strong><br>
-  Islamic University of Technology (IUT), Dhaka, Bangladesh
-</p>
+<p align='center'><b> Mechanical Engineering Undergraduate | Islamic University of Technology</b></p>
 
 <p align="center">
   <a href="mailto:siam.ahmed.mahin@gmail.com">Email</a> •
@@ -16,86 +12,66 @@
   <a href="https://wa.me/+8801303048942">WhatsApp</a>
 </p>
 
----
-
-## Abstract
-
-I am a fifth-semester undergraduate student in Mechanical Engineering with a strong focus on bridging mechanical systems with intelligent control. My research interests lie in **Robotics**, **Control Theory**, and **Fluid Mechanics**. I have extensive experience in CAD modeling, Finite Element Analysis (FEA), and embedded systems, actively contributing to competitive robotics projects including Mars rovers and autonomous underwater vehicles.
 
 ---
 
-## 1. Education
+## Profile
+Mechanical Engineering student at the **Islamic University of Technology (IUT)** with a interest in robotics, automation, and control systems. I possess a strong foundation in mechanical design and embedded systems, with practical experience in developing autonomous rovers and electromechanical devices. My objective is to bridge the gap between mechanical hardware and intelligent software control.
 
-**B.Sc. in Mechanical Engineering** | *Islamic University of Technology (IUT)*
-* **Duration:** Jan 2023 – Jan 2027 (Expected)
-* **Academic Standing:** $CGPA = 3.53 / 4.00$
-* **Scholarship:** Recipient of the OIC Partial Scholarship (Merit-based grant valued at USD 14,000).
 
-**Higher Secondary Certificate (HSC)** | *Government Science College*
-* **Completion:** 2022
-* **Result:** $GPA = 5.00 / 5.00$
+
 
 ---
 
-## 2. Professional Experience
+## Technical Expertise
 
-### 2.1. Project Altair (IUT Mars Rover Team)
-**Role:** Junior Executive, Mechanical & Manufacturing Subteam \
-**Duration:** Nov 2024 – Present
-
-* Spearheaded the mechanical design of the rover's chassis and suspension systems, optimizing the strength-to-weight ratio.
-* Validated structural integrity via **FEA static stress analysis** using SolidWorks Simulation.
-* Contributed to the team securing **18th position globally** at the *University Rover Challenge (URC)*.
-
-### 2.2. Project Aqua (IUT Underwater Rover Team)
-**Role:** Junior Executive, Mechanical Team \
-**Duration:** Nov 2024 – Present
-
-* Executed detailed CAD modeling of underwater vehicle prototypes.
-* Generated photorealistic renders and mechanism animations using Blender for technical documentation.
-* Key contributor to achieving **2nd Place** at the *IIT Guwahati Underwater Vehicle Design Challenge*.
-
-### 2.3. Short Circuit
-**Role:** Co-Founder \
-**Duration:** May 2025 – Present
-
-* Established an online electronics platform serving $n > 100$ engineering students.
-* Managed supply chain logistics, achieving a $15\%$ profit margin and generating over BDT 200,000 in revenue in Q1.
-
----
-
-## 3. Selected Technical Projects
-
-### 3.1. Automatic Garbage Sorter System
-* **Domain:** Mechatronics & Machine Learning
-* **Methodology:** Designed a custom mechanical actuation system using herringbone gears for torque transmission. Integrated an **ESP32** microcontroller with a **YOLO-based** computer vision model for real-time waste classification.
-
-### 3.2. Advanced Line Following Robot
-* **Domain:** Embedded Systems & Control
-* **Methodology:** Developed an autonomous robot featuring an OLED interface and PID control algorithms. Implemented ultrasonic sensors for high-speed navigation and dynamic obstacle avoidance.
-
----
-
-## 4. Technical Skills
-
-| Category | Tools & Technologies |
+| Domain | Competencies & Tools |
 | :--- | :--- |
-| **Design & Simulation** | SolidWorks (CSWA), SolidWorks Simulation, Blender |
-| **Electronics** | Arduino, ESP32, Proteus, PCB Design |
-| **Programming** | Python, C, Embedded C |
-| **Analysis** | Finite Element Analysis (FEA), Structural Mechanics |
+| **Mechanical Design** | SolidWorks (CSWA Certified), SolidWorks Simulation (FEA), Mechanism Design |
+| **Embedded Systems** | Microcontrollers (ESP32, Arduino), Circuit Design (Proteus), Sensors & Actuators |
+| **Programming** | C, Embedded C, Python (Computer Vision/YOLO) |
+| **Control Systems** | PID Control, Motor Control (Stepper/DC) |
 
 ---
 
-## 5. Achievements & Certifications
+## Professional Experience
+
+**Junior Executive, Mechanical & Manufacturing Subteam**
+*Project Altair (IUT Mars Rover Team)* | *Nov 2024 – Present*
+* Led the mechanical design and development of the rover's chassis and suspension systems.
+* Conducted Finite Element Analysis (FEA) to validate structural integrity, contributing to an **18th place global ranking** at the University Rover Challenge (URC).
+
+**Junior Executive, Mechanical Team**
+*Project Aqua (IUT Underwater Rover Team)* | *Nov 2024 – Present*
+* Executed detailed CAD modeling and rendering for underwater vehicle prototypes.
+* Played a key role in the team achieving **2nd Place** at the IIT Guwahati Underwater Vehicle Design Challenge.
+
+**Co-Founder**
+*Short Circuit* | *May 2025 – Present*
+* Established an online electronics platform serving over 100 engineering students.
+* Managed supply chain logistics and vendor relationships, optimizing inventory for mechatronics components.
+
+---
+
+##  Projects
+
+**Automatic Garbage Sorter System**
+* *Domain: Mechatronics & Computer Vision*
+* Designed a custom mechanical actuation system using herringbone gears for high-torque transmission.
+* Integrated an ESP32 microcontroller with a YOLO-based computer vision model to automate waste classification and sorting.
+
+**Advanced Line Following Robot**
+* *Domain: Embedded Systems & Control Theory*
+* Developed an autonomous robot featuring an OLED interface and EEPROM-based menu system.
+* Implemented PID control algorithms for high-precision path tracking and ultrasonic sensors for obstacle avoidance.
+
+---
+
+## Honors & Certifications
 
 * **Champion:** Cezeri Lab Annual Project Competition 2025.
-* **2nd Place:** Underwater Vehicle Design Competition, IIT Guwahati, India.
-* **Certification:** Certified SolidWorks Associate (CSWA) — *Dassault Systèmes*.
-* **Membership:** Member, International Association of Engineers (IAENG).
+* **Certified SolidWorks Associate (CSWA):** Mechanical Design Certification by Dassault Systèmes.
+* **2nd Place:** Underwater Vehicle Design Competition, IIT Guwahati.
+* **Member:** International Association of Engineers (IAENG).
 
 ---
-
-<p align="center">
-  <em>Last updated: January 2026</em>
-</p>
